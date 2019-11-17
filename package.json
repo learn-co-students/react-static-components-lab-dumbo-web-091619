@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "## Objectives",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-students/react-static-components-lab-dumbo-web-091619.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-students/react-static-components-lab-dumbo-web-091619/issues"
+  },
+  "homepage": "https://github.com/learn-co-students/react-static-components-lab-dumbo-web-091619#readme"
 }
